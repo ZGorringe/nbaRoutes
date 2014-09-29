@@ -12,5 +12,7 @@ app.config(function($routeProvider, $httpProvider){
   	templateURL: 'js/teams/teamTmpl.html',
   	controller: 'teamCtrl'
   })
-  
+   var p = Promise.resolve({
+   	var teamData = function(getTeamData
+   });
 });
